@@ -1,0 +1,266 @@
+{
+  "contact": {
+    "email": "richard@developerintest.dev",
+    "location": "Northumberland, United Kingdom"
+  },
+  "skills": [
+    {
+      "title": "General",
+      "type": "percent",
+      "subskills": [
+        {
+          "name": "Test Automation",
+          "percent": 90
+        },
+        {
+          "name": "Performance Testing",
+          "percent": 90
+        },
+        {
+          "name": "Azure DevOps",
+          "percent": 75
+        },
+        {
+          "name": "Azure Functions",
+          "percent": 40
+        },
+        {
+          "name": "Architecture",
+          "percent": 60
+        },
+        {
+          "name": "Linux",
+          "percent": 65
+        },
+        {
+          "name": "Backend Development",
+          "percent": 55
+        },
+        {
+          "name": "Frontend Development",
+          "percent": 45
+        },
+        {
+          "name": "Git",
+          "percent": 65
+        },
+        {
+          "name": "Azure Service Bus",
+          "percent": 45
+        },
+        {
+          "name": "Shell Scripting",
+          "percent": 60
+        }
+      ]
+    },
+    {
+      "title": "Languages",
+      "type": "percent",
+      "subskills": [
+        {
+          "name": "C#",
+          "percent": 80
+        },
+        {
+          "name": "Javascript",
+          "percent": 53
+        },
+        {
+          "name": "Java",
+          "percent": 30
+        },
+        {
+          "name": "Python",
+          "percent": 26
+        }
+      ]
+    },
+    {
+      "title": "Frameworks",
+      "type": "tag",
+      "subskills": [
+        {
+          "name": ".net Core"
+        },
+        {
+          "name": "Selenium WebDriver"
+        },
+        {
+          "name": "React"
+        },
+        {
+          "name": "Jest"
+        },
+        {
+          "name": "Playwright JS"
+        },
+        {
+          "name": "Cypress JS"
+        },
+        {
+          "name": "Gatsby JS"
+        },
+        {
+          "name": "Specflow"
+        },
+        {
+          "name": "Gherkin"
+        },
+        {
+          "name": "xUnit"
+        },
+        {
+          "name": "Pact.io"
+        },
+        {
+          "name": "MediatR"
+        }
+      ]
+    },
+    {
+      "title": "Software",
+      "type": "tag",
+      "subskills": [
+        {
+          "name": "Docker"
+        },
+        {
+          "name": "JMeter"
+        },
+        {
+          "name": "NeoLoad"
+        },
+        {
+          "name": "Jenkins"
+        }
+      ]
+    },
+    {
+      "title": "Databases",
+      "type": "tag",
+      "subskills": [
+        {
+          "name": "Mongodb"
+        },
+        {
+          "name": "MS SQL"
+        }
+      ]
+    }
+  ],
+  "summary": "Test Engineer with nearly 14 years experience working in a variety of testing roles including Functional, Automated and Performance. Has extensive experience of test automation approaches ranging from automated UI regression tests/API tests through to Subcutaneous Behaviour Driven Acceptance/Integration Tests and Microservice based Contract Testing. I am BCS Professionally Certified. I have a passion for Technology, Cosmology and Natural History. On a weekend you'll find me walking my dog, dabbling with Linux or busying myself with my latest Automotive Engineering project. Women in STEM advocate and strong believer of encouraging more women into what is traditionally a male dominated field. Email or connect with me on Linkedin to discuss opportunities.",
+  "education": [
+    {
+      "institution": "University of Sunderland",
+      "degree": "Multimedia Computing",
+      "start": "2001",
+      "end": "2005"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Software Developer in Test",
+      "company": "NCFE",
+      "description": "Full stack development, completion of product backlog items. Consultant to the scrum teams for activities such as Data Migration, API, Integration and Contract Testing. Configuring automated build and release pipelines in Azure DevOps. Recruitment of new SDITs/Developers. Driving and championing the use of example mapping throughout the software delivery team. Building and running Performance Tests using tools such as JMeter and NeoLoad. Working closely with the Software Delivery Leads and Principle Developer to ensure a joined up approach to technical implementations and solutions across the Software Development department.",
+      "start": "03/2018",
+      "end": ""
+    },
+    {
+      "role": "Test Analyst",
+      "company": "NCFE",
+      "description": "Implementation of an automated testing solution written in C# with Selenium WebDriver and the .NET Implementation of Gherkin (Specflow). Provided coaching, mentoring and upskilling to junior testers in all aspects of Testing and Automation. Was responsible for informing the Testing Strategy from a technical point of view in addition to working with Azure DevOps to integrate Automated Testing into a Continuous Integration pipeline. Was also responsible for Load and Performance Testing across the project streams.",
+      "start": "06/2016",
+      "end": "03/2018"
+    },
+    {
+      "role": "Test Automation Lead",
+      "company": "NHS BSA",
+      "description": "As part of the BSA's transition to becoming a digital business took the role of implementing a full Automated Acceptance Testing solution written in Java and provided subsequent training and handover.",
+      "start": "04/2016",
+      "end": "06/2016"
+    },
+    {
+      "role": "QA Engineer",
+      "company": "Viewpoint Construction Software",
+      "description": "Expanding and refining an Automated Testing solution written in C# with Selenium WebDriver. Later implemented a performance testing strategy and mentored junior testers in Automated Test design/debugging.",
+      "start": "11/2014",
+      "end": "04/2016"
+    },
+    {
+      "role": "Release Engineer",
+      "company": "Orchard Information Systems",
+      "description": "Was invited to take a permanent role of Release Engineer on a project to integrate application deployment and automated testing (including JUnit tests) into a continuous integration pipeline. This was achieved primarily using Unix Shell and Windows PowerShell. Day to day management of five separate software release branches across three Jenkins Master CI servers and ten slaves.",
+      "start": "04/2014",
+      "end": "11/2014"
+    },
+    {
+      "role": "Test Automation Engineer",
+      "company": "Orchard Information Systems",
+      "description": "Two year contract working for the UK’s leading independent provider of specialist software to the Social Housing sector. Worked in a scrum team of four to automate Orchard's Regression Testing using HP Unified Functional Testing.",
+      "start": "09/2012",
+      "end": "04/2014"
+    },
+    {
+      "role": "Third Line Analyst",
+      "company": "BT",
+      "description": "Working in a team of four, responsible for the management and support of what was at the time, the largest IPT contact centre in the world. Day to day duties include configuration testing and incident troubleshooting in live and test environments and working with various 3rd party software vendors. Significant exposure to Unix Shell scripting and implementation of automated processes to assist with day to day operations.",
+      "start": "08/2010",
+      "end": "08/2012"
+    },
+    {
+      "role": "Senior Functional Test Analyst",
+      "company": "BT",
+      "description": "Responsible for analysing business use cases and UML to assist a contracted in test team in the creation and execution of test cases. Was also responsible for the configuration and administration of the HP Quality Centre tool in addition to using it to record and track defects during test execution phases.",
+      "start": "12/2009",
+      "end": "08/2010"
+    },
+    {
+      "role": "Lead Test Analyst",
+      "company": "BT",
+      "description": "Lead Test Analyst on a major upgrade of Disclosure Scotland's Oracle Financials system. Ensured new system functionality was working correctly as per design documentation. Customer facing role being present on site to assist with User Acceptance Testing/Training. Successfully implemented a data driven Automation Framework to regression test Oracle Financials following upgrade; implemented complete end to end automated testing of all transaction types in less than three hours.",
+      "start": "05/2009",
+      "end": "11/2009"
+    },
+    {
+      "role": "Performance Test Analyst/Automated Test Analyst",
+      "company": "BT",
+      "description": "Working across two projects simultaneously, was responsible for the design, implementation and running of load tests on SAAS, a web application assisting students in the application and progression of their student loans. Was also responsible for web usability and browser cross compatibility testing, providing detailed written reports on test results and reviewing with project stakeholders. During this period also worked on automating regression test cases for the LRNI system, a complex web-based application which incorporated mapping functionality using HP Quick Test Pro, resulting in a 50% reduction in regression test case execution time.",
+      "start": "11/2008",
+      "end": "05/2009"
+    },
+    {
+      "role": "Functional Test Analyst",
+      "company": "BT",
+      "description": "Working directly with a contracted developer on an application to allow customers to view complex 3D geophysical imaging remotely over DSL grade networks. Providing testing estimates for project plans and production of strategy documents. Worked side by side with the developer testing compression algorithms written in C++. Provided daily feedback to stakeholders and customers based in Texas - later responsible for creation of user manuals.",
+      "start": "08/2008",
+      "end": "10/2008"
+    },
+    {
+      "role": "Functional Test Analyst",
+      "company": "BT",
+      "description": "Joined BT as a Test Analyst following graduation assigned to the Disclosure Scotland project working on a key B2B project. Key duties were the design and execution of test cases from development documentation to ensure correct system functionality. Later moved into performance testing when it was identified that there was a skills gap. Undertook self-study into performance testing tools and eventually designed and scripted complete end to end load tests on complex browser-based workflow system, subsequently becoming an integral part of the testing cycle. Worked closely with customer on site and detected a number of performance related issues and fed these back to the development teams in order to improve customer deliverables.",
+      "start": "07/2007",
+      "end": "07/2008"
+    },
+    {
+      "role": "Functional Test Analyst",
+      "company": "NHS BSA",
+      "description": "Placement year for degree. Assigned to the European Health Insurance Card project testing web-based applications (internal and public facing). Was responsible for test case design and creation of associated test data from technical design documentation and extraction of expected results by writing SQL. Participated in defect and design meetings with development teams. Was responsible for retesting defects following fixes and liaising between development and management teams. Providing progress reports in weekly meetings. Responsible for accessibility and cross browser compatibility testing across EHIC systems then producing written reports for stakeholders.",
+      "start": "07/2004",
+      "end": "09/2005"
+    }
+  ],
+  "social": [
+    {
+      "service": "linkedin",
+      "url": "https://www.linkedin.com/in/richard-peckett-4663b2102/"
+    },
+    {
+      "service": "github",
+      "url": "https://github.com/ardz"
+    }
+  ],
+  "role": "Test Engineering Consultant & Full Stack Developer",
+  "fullname": "Richard Peckett"
+}
