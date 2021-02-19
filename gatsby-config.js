@@ -5,7 +5,6 @@
  */
 
 module.exports = {
-  pathPrefix: "/developerintest.dev",
   siteMetadata: {
     title: `Richard Peckett | Test Engineering Consultant & Full Stack Developer`,
     author: `Richard Peckett`,
