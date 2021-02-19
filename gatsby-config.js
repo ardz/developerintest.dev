@@ -13,9 +13,9 @@ module.exports = {
               startups from idea phase to high volumes. I design and build
               scalable solutions, implement internal processes that fit your
               organization, build teams that produce results.`,
-    siteUrl: `https://pectesting.com/`,
+    siteUrl: `https://www.developerintest.dev/`,
     social: {
-      twitter: `barancezayirli`,
+      twitter: ``,
     },
   },
   plugins: [
