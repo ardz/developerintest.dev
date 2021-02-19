@@ -6,7 +6,7 @@
 
 module.exports = {
   siteMetadata: {
-    title: `Richard Peckett | Developer in Test/Full Stack Developer`,
+    title: `Richard Peckett | Test Engineering Consultant & Full Stack Developer`,
     author: `Richard Peckett`,
     description: `With 10+ years of experience in various industries, I help tech
               startups from idea phase to high volumes. I design and build
@@ -21,7 +21,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Richard Peckett | Developer in Test/Full Stack Developer`,
+        name: `Richard Peckett | Test Engineering Consultant & Full Stack Developer`,
         short_name: `CV`,
         start_url: `/`,
         background_color: `#f7f0eb`,
