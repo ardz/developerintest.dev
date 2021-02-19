@@ -5,7 +5,7 @@
  */
 
 module.exports = {
-  pathPrefix: "/developerintest",
+  pathPrefix: "/developerintest.dev",
   siteMetadata: {
     title: `Richard Peckett | Test Engineering Consultant & Full Stack Developer`,
     author: `Richard Peckett`,
@@ -13,7 +13,7 @@ module.exports = {
               startups from idea phase to high volumes. I design and build
               scalable solutions, implement internal processes that fit your
               organization, build teams that produce results.`,
-    siteUrl: `https://www.developerintest.dev/`,
+    siteUrl: `https://ardz.github.io/developerintest.dev/`,
     social: {
       twitter: ``,
     },
