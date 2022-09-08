@@ -160,11 +160,18 @@
   ],
   "experience": [
     {
+      "role": "Test Lead",
+      "company": "Pina Vida",
+      "description": "Responsible for test strategy implementation across modules including test automation approaches as well as acting as point of contact for client test team; providing upskilling, guidance and handover of deliverables. Technology stack primarily dot net core, MS SQL Server and Appium.",
+      "start": "06/2021",
+      "end": ""
+    },
+    {
       "role": "Senior Software Developer in Test",
       "company": "NCFE",
       "description": "Full stack development, completion of product backlog items. Consultant to the scrum teams for activities such as Data Migration, API, Integration and Contract Testing. Configuring automated build and release pipelines in Azure DevOps. Recruitment of new SDITs/Developers. Driving and championing the use of example mapping throughout the software delivery team. Building and running Performance Tests using tools such as JMeter and NeoLoad. Working closely with the Software Delivery Leads and Principle Developer to ensure a joined up approach to technical implementations and solutions across the Software Development department.",
       "start": "03/2018",
-      "end": ""
+      "end": "06/2021"
     },
     {
       "role": "Test Analyst",
