@@ -6,12 +6,9 @@
 
 module.exports = {
   siteMetadata: {
-    title: `Richard Peckett | Test Engineering Consultant & Full Stack Developer`,
+    title: `Richard Peckett | Test Engineer`,
     author: `Richard Peckett`,
-    description: `With 10+ years of experience in various industries, I help tech
-              startups from idea phase to high volumes. I design and build
-              scalable solutions, implement internal processes that fit your
-              organization, build teams that produce results.`,
+    description: ``,
     siteUrl: `https://ardz.github.io/developerintest.dev/`,
     social: {
       twitter: ``,
@@ -21,7 +18,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Richard Peckett | Test Engineering Consultant & Full Stack Developer`,
+        name: `Richard Peckett | Test Engineer`,
         short_name: `CV`,
         start_url: `/`,
         background_color: `#f7f0eb`,
