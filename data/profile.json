@@ -162,7 +162,7 @@
     {
       "role": "Test Lead",
       "company": "Pina Vida",
-      "description": "Responsible for test strategy implementation across modules including test automation approaches as well as acting as point of contact for client test team; providing upskilling, guidance and handover of deliverables. Technology stack primarily dot net core, MS SQL Server and Appium.",
+      "description": "Designed, built and successfully rolled out complete automated testing solution across modules which covers, API, end to end acceptance (Appium/WinApp Driver) and contract testing. Championing automated testing throughout the development and testing team in addition to mentoring (clean test code and automated test design). Encouraging developers test their code better and influence to write tests and review their work. Working closely with the Architect providing input on solution design to better facilitate testability throughout the stack. Manual testing when required and debugging/troubleshooting of complex issues with the development team. Technology stack primarily c#, dot net core, Azure DevOps, Azure Service Bus and MS SQL server.",
       "start": "06/2021",
       "end": ""
     },
